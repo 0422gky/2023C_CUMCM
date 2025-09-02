@@ -1,4 +1,4 @@
-# 用ARIMA预测'2023-07-01', '2023-07-07'期间的需求
+# 用ARIMA预测'2023-07-01', '2023-07-07'期间的需求和聚合的品类价格
 
 import pandas as pd
 import numpy as np
